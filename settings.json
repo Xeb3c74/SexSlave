@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FreakOffHangOut.aternos.me:64510",
+    "ip": "FreakOffHangOut.aternos.me",
     "port": 64510,
     "version": "1.21.11",
     "try-creative": false
